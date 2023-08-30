@@ -1,4 +1,4 @@
-package golang_library_modules
+package mathtest
 
 func Add(a, b int) int {
 	return a + b
